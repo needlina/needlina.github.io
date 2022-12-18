@@ -13,7 +13,7 @@ cayman-blog:
   date_format: "%b %-d, %Y"
 
 theme: # leave it empty
-
+future: true
 # social
 
 image: /thumbnail-jumbo.png
