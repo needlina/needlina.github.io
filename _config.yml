@@ -1,7 +1,7 @@
 # The Site Configuration
 
 # Import the theme
-#theme: jekyll-theme-chirpy
+# theme: jekyll-theme-chirpy
 remote_theme: cotes2020/jekyll-theme-chirpy
 
 # Change the following value to '/PROJECT_NAME' ONLY IF your site type is GitHub Pages Project sites
@@ -35,7 +35,7 @@ github:
   username: needlina # change to your github username
 
 # twitter:
-#   username: needlina # change to your twitter username
+#   username: twitter_username            # change to your twitter username
 
 social:
   # Change to your full name.
@@ -44,7 +44,7 @@ social:
   email: needlina@hotmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    # - https://twitter.com/username # change to your twitter homepage
+    # - https://twitter.com/username      # change to your twitter homepage
     - https://github.com/needlina # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
@@ -80,7 +80,7 @@ theme_mode: # [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn: "https://henjini.com"
+img_cdn: "https://henjini.com/"
 
 # the avatar on sidebar, support local or CORS resources
 avatar: "/assets/img/sites/avatar.png"
