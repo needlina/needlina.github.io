@@ -200,5 +200,5 @@ jekyll-archives:
     category: categories
     tag: tags
   permalinks:
-    tag: "/tags/:name/"
-    category: "/categories/:name/"
+    category: "/:name/"
+    tag: "/:name/"
