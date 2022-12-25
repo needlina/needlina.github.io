@@ -1,4 +1,4 @@
 ---
 layout: tag
-title: image
+title: "image"
 ---
