@@ -15,6 +15,9 @@ baseurl: ""
 # otherwise, the layout language will use the default value of 'en'.
 lang: ko-KR
 
+plugins:
+  - jekyll-archives
+
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
 timezone: Asia/Seoul
 
@@ -195,9 +198,7 @@ exclude:
   - package*.json
 
 jekyll-archives:
-  enabled:
-    - categories
-    - tags
+  enabled: [categories, tags]
   layouts:
     category: category
     tag: tag

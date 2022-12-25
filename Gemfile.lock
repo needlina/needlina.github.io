@@ -285,6 +285,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   html-proofer (~> 3.18)
+  jekyll-archives
   jekyll-theme-chirpy!
   tzinfo (~> 1.2)
   tzinfo-data
