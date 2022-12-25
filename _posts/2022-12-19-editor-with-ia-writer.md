@@ -2,6 +2,7 @@
 layout: post
 title: "마크다운 에디터 사용해서 폰으로 업로드하기"
 categories: misc
+tags: [blog, image]
 ---
 
 [공통] 마크다운 markdown 작성법
