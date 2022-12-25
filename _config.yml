@@ -15,9 +15,6 @@ baseurl: ""
 # otherwise, the layout language will use the default value of 'en'.
 lang: ko-KR
 
-plugins:
-  - jekyll-archives
-
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
 timezone: Asia/Seoul
 
@@ -196,12 +193,3 @@ exclude:
   - gulpfile.js
   - node_modules
   - package*.json
-
-jekyll-archives:
-  enabled: [categories, tags]
-  layouts:
-    category: category
-    tag: tag
-  permalinks:
-    category: /categories/:name/
-    tag: /tags/:name/
