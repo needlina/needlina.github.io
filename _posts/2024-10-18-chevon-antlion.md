@@ -15,7 +15,7 @@ comments: true
 
 # Chevon - antlion
 ---
-<img src="https://henjini.com/assets/img/posts/jpop/2024-10-18-chevon-antlion/chevon-album.webp" width="300" height="300"/>
+<img src="https://henjini.com/assets/img/posts/jpop/2024-10-18-chevon-antlion/chevon-album.webp" width="300" height="300" alt=""/>
 
 
 ### 앨범 설명
