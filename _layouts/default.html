@@ -38,6 +38,11 @@ layout: compress
               {% include_cached update-list.html lang=lang %}
               {% include_cached trending-tags.html lang=lang %}
 
+              {% for _include in layout.panel_includes %}
+                {% assign _include_path = _include | append: '.html' %}
+                {% include {{ _include_path }} lang=lang %}
+              {% endfor %}
+
               <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3406214103222062"
                   crossorigin="anonymous"></script>
               <!-- 디스플레이 광고 -->
@@ -50,13 +55,8 @@ layout: compress
               <script>
                     (adsbygoogle = window.adsbygoogle || []).push({});
               </script>
-
             </div>
-
-            {% for _include in layout.panel_includes %}
-              {% assign _include_path = _include | append: '.html' %}
-              {% include {{ _include_path }} lang=lang %}
-            {% endfor %}
+            
           </aside>
         </div>
 
