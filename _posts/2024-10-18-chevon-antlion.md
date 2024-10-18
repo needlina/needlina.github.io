@@ -4,7 +4,7 @@ title: "[JPOP] Chevon - antlion 가사 / 해석"
 categories: jpop chevon
 tags: [chevon, jpop, antlion, 가사, 해석]
 image:
-  path: http://henjini.com/assets/img/posts/jpop/2024-10-18-chevon-antlion/2024-10-18-chevon-antlion-preview.jpg
+  path: https://henjini.com/assets/img/posts/jpop/2024-10-18-chevon-antlion/2024-10-18-chevon-antlion-preview.jpg
   alt: ""
 comments: true
 ---
@@ -15,7 +15,7 @@ comments: true
 
 # Chevon - antlion
 ---
-<img src="http://henjini.com/assets/img/posts/jpop/2024-10-18-chevon-antlion/chevon-album.webp" width="300" height="300"/>
+<img src="https://henjini.com/assets/img/posts/jpop/2024-10-18-chevon-antlion/chevon-album.webp" width="300" height="300"/>
 
 
 ### 앨범 설명
