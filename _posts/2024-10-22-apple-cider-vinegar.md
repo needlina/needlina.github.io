@@ -4,7 +4,7 @@ title: "[운동] 애사비의 효능, 먹는 법 및 후기"
 categories: workout applecidervinegar
 tags: [운동, 건강, 애사비, 사과식초, 다이어트]
 image:
-  path: http://henjini.com/assets/img/posts/workout/2024-10-22-apple-cider-vinegar/2024-10-22-apple-cider-vinegar-preview.jpg
+  path: https://henjini.com/assets/img/posts/workout/2024-10-22-apple-cider-vinegar/2024-10-22-apple-cider-vinegar-preview.jpg
   alt: ""
 comments: true
 ---
@@ -20,7 +20,7 @@ comments: true
 애사비를 먹게된 이유는 체지방 감소에 좋다는 말을 들었기 때문에,,   
 쿠팡에서 만원대에 1리터 정도의 용량을 1만 2천원 대에 구매했어요. (광고는 아니고,,)
 
-<img src="http://henjini.com/assets/img/posts/workout/2024-10-22-apple-cider-vinegar/apple-cider-vinegar.jpeg" width="400" height="800" alt=""/>
+<img src="https://henjini.com/assets/img/posts/workout/2024-10-22-apple-cider-vinegar/apple-cider-vinegar.jpeg" width="400" height="800" alt=""/>
 
 ### 애플 사이다 비니거의 효능
 
