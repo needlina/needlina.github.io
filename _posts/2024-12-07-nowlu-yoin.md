@@ -22,7 +22,9 @@ yoin은 여운(余韻)이라는 뜻이네요.
 애절한 가사와 보이스가 특징이에요. 요즘 꽃혀있습니다.   
 오늘도 가사 정리하면서 많이 공부합니다~   
 
-[![Nowlu _ yoin](http://img.youtube.com/vi/Il1wJtCDI_I/0.jpg)](https://www.youtube.com/watch?v=Il1wJtCDI_I?t=0s)
+
+[![Nowlu _ yoin](https://img.youtube.com/vi/Il1wJtCDI_I/0.jpg)](https://www.youtube.com/watch?v=Il1wJtCDI_I?t=0s)   
+[유튜브 링크 : Nowlu - yoin]
 
 ### 곡 정보
 
