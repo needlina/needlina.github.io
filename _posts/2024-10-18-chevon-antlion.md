@@ -7,6 +7,7 @@ image:
   path: https://henjini.com/assets/img/posts/jpop/2024-10-18-chevon-antlion/2024-10-18-chevon-antlion-preview.jpg
   alt: ""
 comments: true
+published: false
 ---
 
 요즘 한창 운동할때나 출근할떄 듣고있는 Chevon의 노래입니다.   

@@ -7,6 +7,7 @@ image:
   path: https://henjini.com/assets/img/posts/jpop/2024-12-07-nowlu-yoin/preview.jpg
   alt: ""
 comments: true
+published: false
 ---
 
 # Nowlu - 余韻（yoin）
