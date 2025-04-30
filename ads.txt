@@ -25,3 +25,4 @@ appnexus.com, 2797, RESELLER
 smartadserver.com, 4899, RESELLER, 060d053dcf45cbf3
 appnexus.com, 9538, DIRECT
 rubiconproject.com, 24434, DIRECT, 0bfd66d529a55807
+google.com, pub-3406214103222062, DIRECT, f08c47fec0942fa0
