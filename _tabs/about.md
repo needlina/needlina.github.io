@@ -1,26 +1,24 @@
 ---
 # the default layout is 'page'
 icon: fas fa-info-circle
-order: 4
+order: 1
 ---
 
-# 블로그 소개
+# Henjini
 
-이 블로그는 오랫동안 방치되어 있다가 다시 새로운 마음가짐으로 시작해보려한다. 마지막 수정이 작년이었다.   
-그동안 많은 일이 있었는데, 직장도 그만두고 여행도 다니고 새로운 관심사도 생겼고 다사다난했다.   
-새로운 루틴을 만드는 생활에 익숙해져서 블로그도 그 중 하나로 기록을 남길 예정이다.   
-개발 및 다른 관심사 일기 등...
+React와 TypeScript를 중심으로 웹 서비스를 개발하고, 1인 SaaS와 AI 자동화를 실험합니다.
 
-아래는 블로그 업데이트 로그와 to-do list이다   
+## Links
 
-## 업데이트 로그
-2024-10-12 블로그 재시작 및 소개 작성   
-2024-10-15 방문자, 댓글기능, 조회수 기능 추가...
+- [Tech Blog](https://tech.henjini.com)
+- [GitHub](https://github.com/needlina)
 
-## todo list
-- [x] Chirpy 업그레이드
-- [x] 애드센스 광고 위치 지정
-- [x] 방문자 카운터 추가
-- [x] 댓글 기능 추가
-- [x] 조회수 기능 추가
-- [ ] 각 카테고리별 게시물 작성하기
+## Projects
+
+### DevJournal
+
+개발자의 GitHub 활동을 기반으로 개발일지, 회고, 경력기술서를 자동 생성하는 서비스를 실험 중입니다.
+
+## Contact
+
+hyunjin.lee.2341@outlook.com
