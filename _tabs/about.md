@@ -11,14 +11,8 @@ React와 TypeScript를 중심으로 웹 서비스를 개발하고, 1인 SaaS와 
 ## Links
 
 - [Tech Blog](https://tech.henjini.com)
-- [GitHub](https://github.com/needlina)
+- [Info Blog](https://info.henjini.com)
 
-## Projects
+## Project
 
-### DevJournal
-
-개발자의 GitHub 활동을 기반으로 개발일지, 회고, 경력기술서를 자동 생성하는 서비스를 실험 중입니다.
-
-## Contact
-
-hyunjin.lee.2341@outlook.com
+TBA
