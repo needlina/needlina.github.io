@@ -1,0 +1,22 @@
+---
+layout: null
+permalink: /sitemap.xml
+sitemap: false
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>{{ "/" | absolute_url }}</loc>
+  </url>
+  {% assign hub_pages = site.pages | where_exp: "item", "item.url != '/' and item.url != '/feed.xml' and item.url != '/robots.txt' and item.url != '/sitemap.xml'" %}
+  {% for item in hub_pages %}
+    {% unless item.url contains '/assets/' or item.url contains '/norobots/' or item.url contains '/posts/' %}
+  <url>
+    <loc>{{ item.url | absolute_url }}</loc>
+    {% if item.last_modified_at %}
+    <lastmod>{{ item.last_modified_at | date_to_xmlschema }}</lastmod>
+    {% endif %}
+  </url>
+    {% endunless %}
+  {% endfor %}
+</urlset>
